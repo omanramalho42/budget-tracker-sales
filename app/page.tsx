@@ -433,7 +433,7 @@ export default function LandingPage() {
               className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold w-full sm:w-auto"
               asChild
             >
-              <Link href="https://v0-personal-finance-quiz-inky.vercel.app/">
+              <Link href="https://budget-tracket-quizz.vercel.app/">
                 Fazer Quiz Gratuito <ArrowRight className="ml-2 h-5 w-5 md:h-6 md:w-6" />
               </Link>
             </Button>
@@ -639,7 +639,7 @@ export default function LandingPage() {
               className="border-yellow-500 text-yellow-500 hover:bg-yellow-500/10 text-base md:text-lg px-8 md:px-12 py-5 md:py-6 bg-transparent w-full sm:w-auto"
               asChild
             >
-              <Link href="https://v0-personal-finance-quiz-inky.vercel.app/">Fazer Quiz Primeiro</Link>
+              <Link href="https://budget-tracket-quizz.vercel.app/">Fazer Quiz Primeiro</Link>
             </Button>
           </div>
           <p className="text-xs md:text-sm text-gray-400 mt-4 md:mt-6">
@@ -678,7 +678,7 @@ export default function LandingPage() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="https://v0-personal-finance-quiz-inky.vercel.app/" className="hover:text-yellow-500">
+                  <Link href="https://budget-tracket-quizz.vercel.app/" className="hover:text-yellow-500">
                     Quiz
                   </Link>
                 </li>
